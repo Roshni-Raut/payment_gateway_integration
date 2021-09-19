@@ -163,4 +163,10 @@
   .dpage {
     width: 80%;
   }
+.home, 
+.donate,
+.contact, 
+.about{
+height:700px;
+}
 }
